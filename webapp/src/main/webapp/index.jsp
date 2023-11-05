@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart Shopping Website</title>
+    <title>prawin sales</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Big Sale flipkart shopping site</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">now sales are availabe</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
