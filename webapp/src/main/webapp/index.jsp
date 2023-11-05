@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Mobile offers will be available till 30th November 2023</h1>   
+         <h1>No offers now</h1>   
 	 
 
     </section>    
