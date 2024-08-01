@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>offers will be available after pongal</h1>   
+         <h1>sold out </h1>   
 	 
 
     </section>    
